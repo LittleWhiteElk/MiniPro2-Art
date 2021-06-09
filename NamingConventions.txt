@@ -1,0 +1,5 @@
+$Object$_DIFF
+$Object$_METAL
+$Object$_ROUGH
+$Object$_NORM
+$Object$_ALPHA
